@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">banner广告</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_01">我和令计划只是同姓</string>
+    <string name="text_02">文章选题来自</string>
+    <string name="text_03">阿宅的</string>
+    <string name="text_04">我想知道令狐安和令计划有什么关系</string>
+</resources>
